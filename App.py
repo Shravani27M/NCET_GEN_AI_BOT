@@ -1,5 +1,6 @@
 import streamlit as st
 from groq import Groq
+image.open()
 
 st.set_page_config("PragyanAI Content Generator", layout="wide")
 st.title("PragyanAI – Content Generator")
